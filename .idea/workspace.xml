@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dbfa9de-7b8c-47df-9cd3-f1f878da92ff" name="Changes" comment="initialise : required pages for blog app">
+    <list default="true" id="4dbfa9de-7b8c-47df-9cd3-f1f878da92ff" name="Changes" comment="dependencies : install react router">
       <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707620125653</updated>
       <workItem from="1707620127776" duration="536000" />
-      <workItem from="1707620677253" duration="325000" />
+      <workItem from="1707620677253" duration="432000" />
     </task>
     <task id="LOCAL-00001" summary="install tailwind css">
       <option name="closed" value="true" />
@@ -110,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707620848977</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="dependencies : install react router">
+      <option name="closed" value="true" />
+      <created>1707621074056</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707621074056</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +131,7 @@
     <MESSAGE value="ref : remove default files" />
     <MESSAGE value="ref : remove default app.tsx" />
     <MESSAGE value="initialise : required pages for blog app" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialise : required pages for blog app" />
+    <MESSAGE value="dependencies : install react router" />
+    <option name="LAST_COMMIT_MESSAGE" value="dependencies : install react router" />
   </component>
 </project>
